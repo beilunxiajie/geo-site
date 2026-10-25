@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beilunxiajie.github.io/geo-site/sitemap.xml
